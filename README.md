@@ -13,4 +13,9 @@ Direct traffic to your deployed app, and your github
 Author 
 Abduklazeez Abdulrazak Babatunde linkdin https://www.linkedin.com/in/abdulazeez-babatunde-9b0508281/
 x.com   Twitter
+<section id="links">
+            <h2>Connect with Me</h2>
+            <a href="https://www.linkedin.com/in/abdulazeez-babatunde-9b0508281">LinkedIn</a>
+            <a href="https://www.linkedin.com/in/abdulazeez-babatunde-9b0508281">Personal Blog</a>
+        </section>
 This project is still a work in progress more detail on the project will be available in the future
